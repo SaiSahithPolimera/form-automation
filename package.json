@@ -1,0 +1,16 @@
+{
+  "name": "automationpractice",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "formtest.js",
+  "scripts": {
+    "test": "node formtest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.31.0"
+  }
+}
